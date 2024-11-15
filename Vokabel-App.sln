@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vokabel-App", "Vokabel-App\Vokabel-App.csproj", "{232289F2-FEA2-44E2-B849-494767939562}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vokabel-App.Shared", "Vokabel-App.Shared\Vokabel-App.Shared.csproj", "{81FCE72D-9AFD-4C05-B7DD-349BCE253078}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vokabel-App.Web", "Vokabel-App.Web\Vokabel-App.Web.csproj", "{0DE53275-E3A6-4535-AF19-CD5D49A34A7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{232289F2-FEA2-44E2-B849-494767939562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{232289F2-FEA2-44E2-B849-494767939562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{232289F2-FEA2-44E2-B849-494767939562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{232289F2-FEA2-44E2-B849-494767939562}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81FCE72D-9AFD-4C05-B7DD-349BCE253078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81FCE72D-9AFD-4C05-B7DD-349BCE253078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81FCE72D-9AFD-4C05-B7DD-349BCE253078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81FCE72D-9AFD-4C05-B7DD-349BCE253078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DE53275-E3A6-4535-AF19-CD5D49A34A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DE53275-E3A6-4535-AF19-CD5D49A34A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DE53275-E3A6-4535-AF19-CD5D49A34A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DE53275-E3A6-4535-AF19-CD5D49A34A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
